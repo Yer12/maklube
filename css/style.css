@@ -761,6 +761,12 @@ body.lock {
   line-height: 120%;
   margin-bottom: 10px;
 }
+.our-menu__image {
+  width: 100%;
+  min-height: 220px;
+  max-height: 220px;
+  padding-top: 10px;
+}
 @media (max-width: 768px) {
   .our-menu__image {
     text-align: center;
